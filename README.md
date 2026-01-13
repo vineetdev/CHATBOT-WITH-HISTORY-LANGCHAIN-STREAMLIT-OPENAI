@@ -44,8 +44,17 @@ from langchain_openai import ChatOpenAI
 3. **LLM**:
    - `ChatOpenAI`: OpenAI's chat model interface
 
-### Output Display 
-[ChatbotDisplay.png]
+## Output Display
+
+Here's a visual representation of the chatbot application interface:
+
+![Chatbot Display](ChatbotDisplay.png)
+
+The application features:
+- **Clean Chat Interface**: Modern, user-friendly design with distinct styling for user and assistant messages
+- **Session Management Sidebar**: Easy access to create new chats, switch between sessions, and manage conversations
+- **Real-time Conversation**: Interactive chat experience with automatic history management
+- **Smart Session Names**: Automatically generated session names based on conversation context
 
 ### Environment Setup
 

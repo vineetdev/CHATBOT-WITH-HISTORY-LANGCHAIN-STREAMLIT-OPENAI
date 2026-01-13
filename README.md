@@ -48,7 +48,13 @@ from langchain_openai import ChatOpenAI
 
 Here's a visual representation of the chatbot application interface:
 
-![Chatbot Display](ChatbotDisplay.png)
+<div align="center">
+  <img src="./ChatbotDisplay.png" alt="Chatbot Display" width="800"/>
+</div>
+
+<!-- Alternative markdown format (if HTML doesn't work):
+![Chatbot Display](./ChatbotDisplay.png)
+-->
 
 The application features:
 - **Clean Chat Interface**: Modern, user-friendly design with distinct styling for user and assistant messages
